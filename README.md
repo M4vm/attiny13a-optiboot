@@ -45,7 +45,8 @@ Finally, click the Burn Bootloader button at the bottom of the Tools menu.
 
 If you did everything correctly you can now upload any piece of code through the Arduino IDE as long as ATtiny13a is selected as the board and is still connected to the Arduino Uno.
 For example you can upload the Blink LED example just to test it.
-``
+
+```
 void setup() {
 pinMode(4, OUTPUT);
 }
@@ -56,7 +57,8 @@ delay(1000);
 digitalWrite(4, LOW);
 delay(1000);
 }
-``
+```
+
 It should look something like this:
 ![LED](./LED.png)
 
