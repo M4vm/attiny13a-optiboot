@@ -30,7 +30,7 @@ After the example loads just upload the code into the Arduino.
 ### 3.) Downloading ATtiny13a as a core/library
 
 Open your Arduino IDE and go inside File/Preferences and inside "Additional boards manager URLs:" paste in the following url:
-`https://raw.githubusercontent.com/m4vm/attiny13a-optiboot/master/dists/package_attiny13a_index.json`
+`https://raw.githubusercontent.com/m4vm/attiny13a-optiboot/main/dists/package_attiny13a_index.json`
 
 After you have done that go to Tools/Board/Boards Manager and in there search for and install ATtiny13a.
 

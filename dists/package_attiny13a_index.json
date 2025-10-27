@@ -11,7 +11,7 @@
           "architecture": "avr",
           "version": "1.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/m4vm/attiny13a-optiboot/master/dists/board_manager_packages/attiny13a_1_0.zip",
+          "url": "https://raw.githubusercontent.com/m4vm/attiny13a-optiboot/main/dists/board_manager_packages/attiny13a_1_0.zip",
           "archiveFileName": "attiny13a_1_0.zip",
 
           "boards": [{ "name": "ATtiny13a" }],
