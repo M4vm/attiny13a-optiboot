@@ -6,6 +6,9 @@
   "url": "https://raw.githubusercontent.com/m4vm/attiny13a-optiboot/main/dists/board_manager_packages/attiny13a_1_0.zip",
   "archiveFileName": "attiny13a_1_0.zip",
 
+  "checksum": "SHA-256:681456f1706f929f51e58dddbad9b09389d224a0a3dcd39066dc31061de3d1e1",
+  "size": "425278",
+
   "boards": [{ "name": "ATtiny13a" }],
   "toolsDependencies": [
     {
