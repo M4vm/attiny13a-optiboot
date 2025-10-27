@@ -12,12 +12,12 @@ Requires Arduino IDE version 1.6.9 or above.
 
 ![PinDiagram](./Pins.png)
 
-Arduino => ATtiny13(a)
-5v => Pin 8
-GND => Pin 4
-Pin 13 => Pin 7
-Pin 12 => Pin 6
-Pin 11 => Pin 5
+Arduino => ATtiny13(a)  
+5v => Pin 8  
+GND => Pin 4  
+Pin 13 => Pin 7  
+Pin 12 => Pin 6  
+Pin 11 => Pin 5  
 Pin 10 => Pin 1
 
 ![Connected](./Write.png)
